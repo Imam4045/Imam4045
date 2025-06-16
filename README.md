@@ -41,6 +41,6 @@
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="imam4045" />
 </p>
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=imam4045&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imam4045&theme=tokyonight" alt="Imam4045" /></p>
+
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=imam4045&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
