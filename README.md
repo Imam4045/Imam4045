@@ -42,3 +42,5 @@
 </p>
 
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=imam4045&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imam4045&theme=tokyonight" alt="Imam4045" /></p>
