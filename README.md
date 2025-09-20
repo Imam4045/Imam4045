@@ -13,7 +13,7 @@
 
 - ✍️ All of my projects are available at [https://github.com/Imam4045](https://github.com/Imam4045)
 
-- 💬 Ask me about **C, C++, Java, SQL, Competitive Programming, technology, or troubleshooting.**
+- 💬 Ask me about **C, C++, Java, Python, SQL, Competitive Programming, technology, or troubleshooting.**
 
 - 📫 How to reach me **imam220826@gmail.com**
 
