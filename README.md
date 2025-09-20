@@ -61,6 +61,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+
+<!-- Jupyter with white text -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" 
+       alt="jupyter" width="40" height="40" 
+       style="filter: brightness(0) invert(1);"/> 
+</a>
   
   <!-- HTML -->
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
