@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://github.com/Imam4045">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif"
-         width="100%" />
+         height="250" />
   </a>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Md. Imam Hasan</h1>
 <h3 align="center">CSE student | Passionate about programming, problem solving, and technology.</h3>
