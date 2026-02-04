@@ -13,11 +13,11 @@
 
 - 🎓 &nbsp;I am currently studying Computer Science and Engineering at East West University, Dhaka, Bangladesh.
 
-- 🌱 I’m currently learning **more about Artificial Intelligence, Data Science, Problem Solving, and CTF**
+- 🌱 I’m currently learning **more about Artificial Intelligence, Machine Learning, Data Science and Problem Solving**
 
 - ✍️ All of my projects are available at [https://github.com/Imam4045](https://github.com/Imam4045)
 
-- 💬 Ask me about **C, C++, Java, Python, SQL, Competitive Programming, technology, or troubleshooting.**
+- 💬 Ask me about **C, C++, Java, Python, SQL, Competitive Programming, HTML, CSS, Java Script, technology, or troubleshooting.**
 
 - 📫 How to reach me **imam220826@gmail.com**
 
