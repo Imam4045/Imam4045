@@ -70,14 +70,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imam4045&layout=compact&langs_count=8&theme=tokyonight" alt="imam4045" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imam4045&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="imam4045" width="500"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imam4045&theme=tokyonight" alt="Imam4045" width="500"/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Imam4045&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400"/>
 </p>
