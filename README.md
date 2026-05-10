@@ -77,6 +77,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Imam4045&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400"/>
 </p>
