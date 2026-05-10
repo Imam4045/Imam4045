@@ -24,7 +24,7 @@
 - 🎓 &nbsp;I am currently studying Computer Science and Engineering at East West University, Dhaka, Bangladesh.
 - 🏆 Developed a Deep Learning–based Brain Tumor MRI Classification System, accepted for presentation at the IEEE CSNT 2026 Conference
 - 🌱 I'm currently learning **more about Artificial Intelligence, Machine Learning, Data Science, Deep Learning, NLP, and Data Analysis.**
-- ✍️ All of my projects are available at [https://github.com/Imam4045](https://github.com/Imam4045)
+- ✍️ All of my projects are available at [github.com/Imam4045](https://github.com/Imam4045?tab=repositories)
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, SQL, Data Analysis, C/C++, HTML/CSS, JavaScript, or programming.**
 - 📫 How to reach me **imam220826@gmail.com**
 - ⚡ Fun fact: I enjoy playing online multiplayer games when I'm not coding! 🎮
