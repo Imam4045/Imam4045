@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&width=500&lines=Hi%2C+I'm+Md.+Imam+Hasan!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">CSE Student | Passionate about Programming & Problem Solving | Data Science & AI Enthusiast | Machine Learning & Deep Learning</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imam4045&label=Profile%20views&color=0e75b6&style=flat" alt="imam4045" />
 </p>
