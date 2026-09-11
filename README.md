@@ -78,21 +78,23 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imam4045&layout=compact&langs_count=8&theme=tokyonight&card_width=400"
-    alt="Top Languages"
-    height="180"
-    align="top"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=400"
-    alt="GitHub Statistics"
-    height="180"
-    align="top"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imam4045&layout=compact&langs_count=8&theme=tokyonight&card_width=400"
+  alt="Top Languages"
+  width="380"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=400"
+  alt="GitHub Statistics"
+  width="380"
+  height="180"
+/>
+
+</div>
 
 <p align="center">
   <img
