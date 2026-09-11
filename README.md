@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE" 
-    alt="GitHub Banner" width="100%" height="380px" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE"
+    alt="GitHub Banner"
+    width="100%"
+    height="380px" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&width=500&lines=Hi%2C+I'm+Md.+Imam+Hasan!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&width=500&lines=Hi%2C+I'm+Md.+Imam+Hasan!" 
+    alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>
+    NLP, LLMs & RAG | Machine Learning & Deep Learning | Data Science & AI | Python | Aspiring Data Analyst
+  </strong>
 </p>
 
 <p align="left">
@@ -70,10 +79,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imam4045&layout=compact&langs_count=8&theme=tokyonight&card_width=400" alt="Top Languages" width="400"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" width="400"/>
+  <a href="https://github.com/Imam4045">
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imam4045&layout=compact&langs_count=8&theme=tokyonight&card_width=400"
+      alt="Top Languages"
+      height="180"
+      align="center"
+    />
+  </a>
+  <a href="https://github.com/Imam4045">
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=imam4045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=400"
+      alt="GitHub Stats"
+      height="180"
+      align="center"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Imam4045&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Imam4045&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+    width="400"
+  />
 </p>
